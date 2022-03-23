@@ -1,0 +1,11 @@
+{
+    "web":
+    {"client_id":"982642079582-fk17vrlrie98hs92cofooaetcnum6c6c.apps.googleusercontent.com",
+    "project_id":"notional-device-344916",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"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",
+    "redirect_uris":["http://localhost:8090/auth/google/callback"]
+    }
+}
